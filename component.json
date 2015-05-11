@@ -1,6 +1,6 @@
 {
   "name" : "scroller",
-  "repo" : "adanic/scroller",
+  "repo" : "danayecomponent/scroller",
   "description": "A scroller repository with component.json.",
   "main" : "src/Scroller.js",
   "keywords" : [
