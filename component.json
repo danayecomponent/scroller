@@ -9,7 +9,7 @@
   ],
   "version" : "1.2.2",
   "scripts" : [
-  , "src/Scroller.js"
+    "src/Scroller.js"
   , "src/Animate.js"
   , "src/EasyScroller.js"
   ],
