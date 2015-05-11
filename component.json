@@ -1,0 +1,21 @@
+{
+  "name" : "scroller",
+  "repo" : "adanic/scroller",
+  "description": "A scroller repository with component.json.",
+  "main" : "src/Scroller.js",
+  "keywords" : [
+    "scroller"
+  , "component"
+  ],
+  "version" : "1.2.3",
+  "scripts" : [
+  , "src/Scroller.js"
+  , "src/Animate.js"
+  , "src/EasyScroller.js"
+  ],
+  "files" : [
+    "LICENSE.txt"
+  , "README.md"
+  , "jasyproject.json"
+  ]
+}
